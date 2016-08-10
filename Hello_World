@@ -1,0 +1,7 @@
+Users/Documents
+cd = Change directory
+ls = list directory
+root = cd/
+move up = cd..
+folder = mkdir
+filename = touch
