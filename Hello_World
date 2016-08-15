@@ -1,3 +1,22 @@
+Applicaion environments
+Desktop and Mobile
+
+CLI - Command line interface
+- means of interacting with a computer in the form of successive lines of text
+
+GUI - Graphical user interface
+- means of interacting with a computer using visual icons
+
+3 levels of knowing
+1. knowing and understanding
+2. Teaching and reinforcing
+3. Grocking - to understand intuitively
+
+Tools
+1. Sublime Text
+2. Github
+3. Git shell
+
 Users/Documents
 cd = Change directory
 ls = list directory
@@ -5,3 +24,12 @@ root = cd/
 move up = cd..
 folder = mkdir
 filename = touch
+
+git init - Initialize project
+git status - check project status
+"clean" - No red
+git add + File name
+git commit -m' message'
+
+git remote add origin <link>
+git push -u origin master
