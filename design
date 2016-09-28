@@ -18,3 +18,7 @@ How to convert px to em - Multiply by 1.5
 
 pseudo class selector - use to define a special state
 common - focus, hover
+
+Mobile design - Web design to fit on a mobile scale.
+Media Queries needed
+Specificity in CSS - Specific in order of precense
