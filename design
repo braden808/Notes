@@ -1,0 +1,20 @@
+Responsive Design - The interface adjusts to the screen size no matter how big or how small
+
+Grid based design - Web design with grid content
+
+Media Queries - Break Points
+Common - Desktop, Mobile, Tablet
+- Usually around 600 px
+
+Em usually used for font size
+
+Px = Static measurement
+Em = Adjust to its parent
+Em for responsive design
+Px for non responsive design
+em is unit of measure in CSS
+
+How to convert px to em - Multiply by 1.5
+
+pseudo class selector - use to define a special state
+common - focus, hover

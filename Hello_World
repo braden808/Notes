@@ -4,6 +4,10 @@ Desktop and Mobile
 CLI - Command line interface
 - means of interacting with a computer in the form of successive lines of text
 
+UI - User interface, visual/user friendly, color, visually pleasing
+
+UEX/UX - User experience, things that the user will interact with, organized.
+
 GUI - Graphical user interface
 - means of interacting with a computer using visual icons
 
@@ -32,4 +36,6 @@ git add + File name
 git commit -m' message'
 
 git remote add origin <link>
-git push -u origin master
+git push -u origin masters
+
+CSS
